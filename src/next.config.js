@@ -1,3 +1,3 @@
 module.exports = {
-    basePath: '/nextjs_typescript_storybook_sample',
+    basePath: '/nextjs_typescript_storybook_sample/dist',
 }
